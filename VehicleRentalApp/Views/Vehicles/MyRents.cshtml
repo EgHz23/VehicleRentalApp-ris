@@ -1,0 +1,44 @@
+@model IEnumerable<VehicleRentalApp.Models.Rental>
+
+<div class="container mt-5">
+    <h1 class="text-center">My Rents</h1>
+    <hr />
+    <div class="row">
+        @if (!Model.Any())
+        {
+            <p>No rentals available.</p>
+        }
+        else
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Renter Name</th>
+                        <th>Driver's License</th>
+                        <th>Vehicle</th>
+                        <th>Start Date</th>
+                        <th>End Date</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var rent in Model)
+                    {
+                        <tr>
+                            <td>@rent.RenterName</td>
+                            <td>@rent.RenterDriveLNumber</td>
+                            <td>@rent.Vehicle?.Brand @rent.Vehicle?.Model</td>
+                            <td>@rent.StartDate.ToShortDateString()</td>
+                            <td>@rent.EndDate.ToShortDateString()</td>
+                            <td>@rent.Status</td>
+                            <td>
+                                <a asp-action="PrintRental" asp-route-id="@rent.Id" class="btn btn-secondary">Print</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>

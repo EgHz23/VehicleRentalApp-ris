@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VehicleRentalApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VehicleRentalApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\page\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\page\\background.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\0065857c-30c1-49d7-8b43-8f8a68d79328_amg.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\0065857c-30c1-49d7-8b43-8f8a68d79328_amg.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\087bbdac-fb3c-41e6-8764-2bf2069ab554_m4.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\087bbdac-fb3c-41e6-8764-2bf2069ab554_m4.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\1e6123cd-c9ed-4693-8525-a23c2f724408_C-class-AMg-Line-03.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\1e6123cd-c9ed-4693-8525-a23c2f724408_C-class-AMg-Line-03.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\2022-bmw-m4.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\2022-bmw-m4.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\2683a413-f9e8-4d76-ba68-cfb1d128b6c5_bmwm8.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\2683a413-f9e8-4d76-ba68-cfb1d128b6c5_bmwm8.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\287decc2-23fb-4fc0-9760-97b5b13f9b72_m4.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\287decc2-23fb-4fc0-9760-97b5b13f9b72_m4.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\331ad034-21e8-417a-a05f-76be8d4a751f_rs6.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\331ad034-21e8-417a-a05f-76be8d4a751f_rs6.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\3ba11e45-db89-47a3-92c5-d4d4cc21e3e0_bmwm8.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\3ba11e45-db89-47a3-92c5-d4d4cc21e3e0_bmwm8.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\49745659-9ec6-4d98-93a3-9281a51f4572_bmwm8.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\49745659-9ec6-4d98-93a3-9281a51f4572_bmwm8.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\64bbe12f-e0ae-4fe6-a372-451b29fb313b_C-class-AMg-Line-03.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\64bbe12f-e0ae-4fe6-a372-451b29fb313b_C-class-AMg-Line-03.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\730ea655-2db8-4f39-ac7a-50fe82dfe450_rs6.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\730ea655-2db8-4f39-ac7a-50fe82dfe450_rs6.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\796319db-2177-4add-9abe-d8759c6c71ae_C-class-AMg-Line-03.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\796319db-2177-4add-9abe-d8759c6c71ae_C-class-AMg-Line-03.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\85307140-a3d0-4f6e-93e3-580d11f1139c_rs6.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\85307140-a3d0-4f6e-93e3-580d11f1139c_rs6.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\90c286e4-a8fe-4b12-9e86-b7cf493edde8_C-class-AMg-Line-03.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\90c286e4-a8fe-4b12-9e86-b7cf493edde8_C-class-AMg-Line-03.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\927fb817-787e-4e41-bdf4-d41777f143cc_urus.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\927fb817-787e-4e41-bdf4-d41777f143cc_urus.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\94fa04e9-ca9a-45d8-b12d-d0bfda79aa93_urus.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\94fa04e9-ca9a-45d8-b12d-d0bfda79aa93_urus.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\C-class-AMg-Line-03.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\C-class-AMg-Line-03.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\Volkswagen-Arteon-14.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\Volkswagen-Arteon-14.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\a96c9150-0fad-4648-b470-43bb8d4dd497_2022-bmw-m4.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\a96c9150-0fad-4648-b470-43bb8d4dd497_2022-bmw-m4.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\aa6ddf99-9da5-4969-b00f-76104174ac3f_C-class-AMg-Line-03.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\aa6ddf99-9da5-4969-b00f-76104174ac3f_C-class-AMg-Line-03.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\amg.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\amg.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\bmwm8.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\bmwm8.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\c1100aa7-7f5c-4ce0-81e0-1d679165107d_bmwm8.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\c1100aa7-7f5c-4ce0-81e0-1d679165107d_bmwm8.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\cccbaaaf-c790-4511-a7e5-1bc33e62a45f_m4.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\cccbaaaf-c790-4511-a7e5-1bc33e62a45f_m4.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\cert.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\cert.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\d7f8e3a1-f61a-4c0f-a9a8-7aa86a4f5124_49745659-9ec6-4d98-93a3-9281a51f4572_bmwm8.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\d7f8e3a1-f61a-4c0f-a9a8-7aa86a4f5124_49745659-9ec6-4d98-93a3-9281a51f4572_bmwm8.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\e44cf54e-28c2-4078-bb74-bc4f01c5426c_rs6.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\e44cf54e-28c2-4078-bb74-bc4f01c5426c_rs6.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\ed674bd9-7091-40cc-8c81-15de03885fe7_urus.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\ed674bd9-7091-40cc-8c81-15de03885fe7_urus.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\fc99547e-6512-4de5-a8f4-1b7b2ceadb70_C-class-AMg-Line-03.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\fc99547e-6512-4de5-a8f4-1b7b2ceadb70_C-class-AMg-Line-03.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\fee24a86-9e0e-4a16-bc0e-382a7d2705f6_amg.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\fee24a86-9e0e-4a16-bc0e-382a7d2705f6_amg.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\ffd6a34a-c67c-4586-a3fc-7c190a342aa7_urus.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\ffd6a34a-c67c-4586-a3fc-7c190a342aa7_urus.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\m4.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\m4.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\rs6.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\rs6.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\tesla.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\tesla.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\trust.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\trust.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\urus.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\urus.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\images\\vehicles\\why_us.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\why_us.jpg"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\RAZNO_FAKS\\Informacijski_sistemi\\VehicleRentalApp\\VehicleRentalApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VehicleRentalApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VehicleRentalApp.props",
+      "PackagePath": "build\\VehicleRentalApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VehicleRentalApp.props",
+      "PackagePath": "buildMultiTargeting\\VehicleRentalApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VehicleRentalApp.props",
+      "PackagePath": "buildTransitive\\VehicleRentalApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

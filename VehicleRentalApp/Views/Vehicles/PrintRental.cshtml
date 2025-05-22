@@ -1,0 +1,65 @@
+@model VehicleRentalApp.Models.Rental
+
+<div class="print-container">
+    <h1 class="text-center">Rental Details</h1>
+    <hr />
+    <div class="card shadow-sm">
+        <img src="@Model.Vehicle?.ImagePath" class="card-img-top" alt="@Model.Vehicle?.Brand @Model.Vehicle?.Model" />
+        <div class="card-body">
+            <h5 class="card-title">Vehicle: @Model.Vehicle?.Brand @Model.Vehicle?.Model</h5>
+            <p><strong>Renter Name:</strong> @Model.RenterName</p>
+            <p><strong>Driver's License:</strong> @Model.RenterDriveLNumber</p>
+            <p><strong>Start Date:</strong> @Model.StartDate.ToShortDateString()</p>
+            <p><strong>End Date:</strong> @Model.EndDate.ToShortDateString()</p>
+        </div>
+    </div>
+</div>
+
+<div class="no-print text-center mt-4">
+    <button class="btn btn-primary" onclick="window.print()">Print</button>
+    <a asp-action="MyRents" class="btn btn-secondary">Back</a>
+</div>
+
+<style>
+    /* General styling for print */
+    @@media print {
+        /* Hide navigation bar, buttons, and other unnecessary elements */
+        nav, .no-print, .btn {
+            display: none !important;
+        }
+
+        /* Full-page layout for printing */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .print-container {
+            width: 100%;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* Enhance card styling for print */
+        .card {
+            border: none;
+            box-shadow: none;
+        }
+
+        .card-img-top {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .card-body {
+            font-size: 16px;
+        }
+
+        /* Center align title for print */
+        h1.text-center {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+    }
+</style>

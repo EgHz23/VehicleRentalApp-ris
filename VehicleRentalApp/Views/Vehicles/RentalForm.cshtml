@@ -1,0 +1,26 @@
+@model VehicleRentalApp.Models.Vehicle
+
+<div class="container mt-5">
+    <h1 class="text-center">Rent @Model.Brand @Model.Model</h1>
+    <hr />
+    <form asp-action="RentalForm" method="post">
+        <input type="hidden" name="vehicleId" value="@Model.Id" />
+        <div class="form-group">
+            <label for="RenterName">Renter Name</label>
+            <input type="text" name="RenterName" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="RenterDriveLNumber">Driver's License Number</label>
+            <input type="text" name="RenterDriveLNumber" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="StartDate">Start Date</label>
+            <input type="date" name="StartDate" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="EndDate">End Date</label>
+            <input type="date" name="EndDate" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

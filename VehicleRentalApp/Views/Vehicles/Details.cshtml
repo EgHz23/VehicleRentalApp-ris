@@ -1,0 +1,118 @@
+@model VehicleRentalApp.Models.Vehicle
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0">
+        <div class="row g-0">
+            <div class="col-md-6">
+                <img src="@Model.ImagePath" alt="@Model.Brand @Model.Model" class="img-fluid rounded-start" />
+            </div>
+            <div class="col-md-6">
+                <div class="card-body">
+                    <h1 class="card-title text-primary">@Model.Brand @Model.Model</h1>
+                    <p class="card-text">
+                        <strong>Year:</strong> @Model.Year
+                    </p>
+                    <p class="card-text">
+                        <strong>License Plate:</strong> @Model.LicensePlate
+                    </p>
+                    <p class="card-text">
+                        <strong>Price per Day:</strong> $@Model.PricePerDay
+                    </p>
+                    <p class="card-text">
+                        <strong>Availability:</strong> @(Model.IsAvailable ? "Available" : "Not Available")
+                    </p>
+                    <p class="card-text">
+                        <strong>Average Rating:</strong> @(Model.AverageRating.HasValue ? $"{Model.AverageRating.Value:F1} / 5" : "No rating yet")
+                    </p>
+
+                    <!-- Rating Form -->
+                    <div class="mt-4">
+                        <h5>Rate this Vehicle:</h5>
+                        <form asp-action="AddRating" method="post">
+                            <input type="hidden" name="vehicleId" value="@Model.Id" />
+                            <div class="form-group">
+                                <label for="stars">Rating (1-5):</label>
+                                <select id="stars" name="stars" class="form-control" required>
+                                    <option value="" disabled selected>Select rating</option>
+                                    @for (int i = 1; i <= 5; i++)
+                                    {
+                                        <option value="@i">@i</option>
+                                    }
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-success mt-2">Submit Rating</button>
+                        </form>
+                    </div>
+
+                    <div class="mt-4">
+                        <h5>Price Calculator:</h5>
+                        <form id="priceCalculatorForm">
+                            <div class="mb-3">
+                                <label for="days" class="form-label">Number of Days:</label>
+                                <input type="number" id="days" class="form-control" min="1" value="1" required />
+                            </div>
+                            <div class="mb-3">
+                                <label for="totalPrice" class="form-label">Total Price:</label>
+                                <input type="text" id="totalPrice" class="form-control" readonly />
+                            </div>
+                        </form>
+                    </div>
+
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function () {
+                            const daysInput = document.getElementById("days");
+                            const totalPriceField = document.getElementById("totalPrice");
+                            const pricePerDay = parseFloat("@Model.PricePerDay") || 0;
+
+                            function updatePrice() {
+                                const days = parseFloat(daysInput.value) || 0;
+                                const totalPrice = days * pricePerDay;
+                                console.log("Calculating: Days =", days, "Price per Day =", pricePerDay, "Total =", totalPrice);
+                                totalPriceField.value = `$${totalPrice.toFixed(2)}`;
+                            }
+
+                            daysInput.addEventListener("input", updatePrice);
+                            updatePrice();
+                        });
+                    </script>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact the Owner Form -->
+    <div class="mt-5">
+        <h3 class="text-secondary">Contact the Owner</h3>
+        <form asp-action="SendMessage" method="post">
+            <input type="hidden" name="vehicleId" value="@Model.Id" />
+
+            <div class="form-group mt-3">
+                <label for="email">Your Email</label>
+                <input type="email" name="email" class="form-control" placeholder="Enter your email" required />
+            </div>
+            
+            <div class="form-group mt-3">
+                <label for="phone">Phone Number (Optional)</label>
+                <input type="text" name="phone" class="form-control" placeholder="Enter your phone number" />
+            </div>
+            
+            <div class="form-group mt-3">
+                <label for="startDate">Start Date</label>
+                <input type="date" id="startDate" name="startDate" class="form-control" required />
+            </div>
+            
+            <div class="form-group mt-3">
+                <label for="endDate">End Date</label>
+                <input type="date" id="endDate" name="endDate" class="form-control" required />
+            </div>
+            
+            <div class="form-group mt-3">
+                <label for="message">Message</label>
+                <textarea name="message" class="form-control" rows="5" placeholder="Write a message to the owner..." required></textarea>
+            </div>
+            
+            <button type="submit" class="btn btn-primary mt-3">Send Message</button>
+        </form>
+    </div>
+</div>

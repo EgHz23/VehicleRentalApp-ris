@@ -1,0 +1,41 @@
+@model IEnumerable<VehicleRentalApp.Models.Message>
+
+<div class="container mt-5">
+    <h1 class="text-center">Received Messages</h1>
+    <hr />
+
+    @if (!Model.Any())
+    {
+        <p class="text-center text-muted">You have no messages at the moment.</p>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Vehicle</th>
+                    <th>Sender Email</th>
+                    <th>Sender Phone</th>
+                    <th>Message</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Sent At</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var message in Model)
+                {
+                    <tr>
+                        <td>@message.Vehicle.Brand @message.Vehicle.Model</td>
+                        <td>@message.SenderEmail</td>
+                        <td>@message.SenderPhone ?? "Not provided"</td>
+                        <td>@message.Content</td>
+                        <td>@message.StartDate.ToShortDateString()</td>
+                        <td>@message.EndDate.ToShortDateString()</td>
+                        <td>@message.SentAt.ToString("g")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

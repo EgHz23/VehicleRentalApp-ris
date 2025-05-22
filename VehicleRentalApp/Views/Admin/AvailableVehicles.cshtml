@@ -1,0 +1,38 @@
+@model IEnumerable<VehicleRentalApp.Models.Vehicle>
+
+@{
+    ViewData["Title"] = "Available Vehicles";
+}
+
+<h2>Available Vehicles</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Year</th>
+            <th>Price Per Day</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.Id</td>
+                <td>@vehicle.Brand</td>
+                <td>@vehicle.Model</td>
+                <td>@vehicle.Year</td>
+                <td>$@vehicle.PricePerDay</td>
+                <td>
+                    <form asp-action="DeleteVehicle" method="post" onsubmit="return confirm('Are you sure you want to delete this vehicle?');">
+                        <input type="hidden" name="id" value="@vehicle.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

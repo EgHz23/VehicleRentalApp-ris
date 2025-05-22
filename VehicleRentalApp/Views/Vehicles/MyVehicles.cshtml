@@ -1,0 +1,37 @@
+@model IEnumerable<VehicleRentalApp.Models.Vehicle>
+
+<div class="container mt-5">
+    <h1 class="text-center">My Vehicles</h1>
+    <hr />
+    <div class="row">
+        @if (!Model.Any())
+        {
+            <p class="text-center">You have no vehicles listed.</p>
+        }
+        else
+        {
+            @foreach (var vehicle in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm">
+                        <img src="@vehicle.ImagePath" class="card-img-top" alt="@vehicle.Brand @vehicle.Model" />
+                        <div class="card-body">
+                            <h5 class="card-title">@vehicle.Brand @vehicle.Model</h5>
+                            <p>Year: @vehicle.Year</p>
+                            <p>Price per day: $@vehicle.PricePerDay</p>
+                            
+                            <div class="d-flex justify-content-between">
+                                <a asp-action="Edit" asp-controller="Vehicles" asp-route-id="@vehicle.Id" class="btn btn-primary">Edit</a>
+                                <a asp-action="RentalForm" asp-route-vehicleId="@vehicle.Id" class="btn btn-warning">Rental</a>
+                                <form asp-action="Delete" asp-controller="Vehicles" method="post">
+                                    <input type="hidden" name="id" value="@vehicle.Id" />
+                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
